@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Meu Site de Saúde</title>
+  <title> <font color="Red"> Saúde </font> </title>
   <link rel="stylesheet" href="styles.css"> <!-- Vincule o arquivo de estilos CSS -->
 </head>
 <body>
